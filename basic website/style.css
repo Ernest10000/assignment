@@ -1,0 +1,36 @@
+.body{
+    background-color: chocolate;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+
+
+.text{
+    
+    display: inline;
+}
+.links{
+    font-family: 'Courier New', Courier, monospace;
+     margin-top: 2px;
+}
+
+.images{
+    width: 300px;
+}
+.nut{
+display: inline-block;
+margin-right: 350px;
+text-align: center;
+}
+.head{
+    display: inline-block;
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.nutmage{
+width: 100px;
+
+}
+
